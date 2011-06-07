@@ -1,0 +1,74 @@
+
+body {
+    font-family: georgia, serif;
+    width: 760px;
+    margin: 30px auto 50px;
+    color: #777;
+    letter-spacing: -0.05em;
+    font-size: 20px;
+    background: url(background.jpg) repeat-x top left;
+}
+
+a, a:visited {
+    color: #777;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    margin: 1em 0 1.5em;
+    text-indent: 0.5em;
+    line-height: 1.4em;
+}
+
+h2 {
+    font-size: 1.5em;
+    letter-spacing: -0.06em;
+}
+
+pre {
+    font-family: monaco, courier, monospace;
+    font-size: 80%;
+    overflow: auto;
+    letter-spacing: 0;
+    height: 170px;
+    margin-bottom: 50px;
+}
+
+.social {
+    text-align: center;
+}
+
+.note {
+    color: #aaa;
+    font-size: 75%;
+}
+
+.short-link {
+    font-size: 2em;
+    margin-top: 0;
+    text-align:center;
+}
+
+#wrapper {
+    text-align : center;
+}
+
+input {
+    font-family: courier;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+#output {
+    font: bold italic 30px georgia, serif;
+    text-align: center;
+    min-height: 200px;
+    color: #444;
+}
+
+.magnitude {
+    color: #777;
+}
